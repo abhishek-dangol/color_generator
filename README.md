@@ -1,3 +1,5 @@
-#### Values JS
+### Link to the webpage
+https://dan-color-generator.netlify.app/
 
-[values.js](https://github.com/noeldelgado/values.js)
+
+![](public/colorgenerator.gif)
